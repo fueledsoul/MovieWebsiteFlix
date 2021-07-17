@@ -1,6 +1,6 @@
 # Flix Movie Website
 
-    How To Create Responsive Movie Website Using HTML CSS And jQuery
+   Flix movie Browser Website link https://fueledsoul.github.io/MovieWebsiteFlix/
 
 # Preview
 
