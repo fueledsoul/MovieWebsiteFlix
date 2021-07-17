@@ -1,6 +1,6 @@
 # Flix Movie Website
 
-   Flix movie Browser Website link https://fueledsoul.github.io/MovieWebsiteFlix/
+  
 
 # Preview
 
@@ -9,7 +9,9 @@
 
 # Description
 
-    We will make Responsive Movie Website Using HTML CSS And jQuery, Owl Carousel
+
+    This project is Flix movie Browser which is developed using HTML,CSS & Jquery , Owl carousel
+    Website link https://fueledsoul.github.io/MovieWebsiteFlix/
 
 # Resource
 
